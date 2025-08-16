@@ -34,11 +34,12 @@ mvn exec:java -Dexec.mainClass="com.versaria.App"
 self-driving-taxi/
 ├── src/
 │   ├── main/java/com/versaria/
-│   │   └── App.java          # Основной класс приложения
+│   │   └── App.java
 │   └── test/java/com/versaria/
-│       └── AppTest.java      # Юнит-тесты
-├── pom.xml                  # Конфигурация Maven
-└── README.md                # Документация
+│       └── AppTest.java
+├── LICENSE
+├── pom.xml
+└── README.md
 ```
 
 ## 🧪 Тестирование
